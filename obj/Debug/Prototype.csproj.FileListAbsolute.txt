@@ -1,0 +1,15 @@
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\MainWindow.g.cs
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\App.g.cs
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype_MarkupCompile.cache
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype_MarkupCompile.lref
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\MainWindow.baml
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype.g.resources
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\pawel\Dropbox\Studia\Sem4\WPF\Prototype\Prototype\obj\Debug\Prototype.pdb
